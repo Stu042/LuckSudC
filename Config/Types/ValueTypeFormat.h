@@ -1,0 +1,18 @@
+//
+// Created by Stu on 06/05/2024.
+//
+
+#ifndef CONFIG_VALUETYPEFORMAT_H
+#define CONFIG_VALUETYPEFORMAT_H
+
+typedef enum VALUE_TYPE_FORMAT {
+	VTF_INT,
+	VTF_FLOAT,
+	VTF_STRING,
+	VTF_ARRAY,
+	VTF_STRUCT
+} ValueTypeFormat;
+
+
+
+#endif //CONFIG_VALUETYPEFORMAT_H
