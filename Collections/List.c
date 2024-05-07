@@ -3,6 +3,7 @@
 #include <memory.h>
 #include <string.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 
 const int LIST_INITIAL_SIZE = 8;
